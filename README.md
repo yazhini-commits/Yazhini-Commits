@@ -10,13 +10,21 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yazhini-dev.vercel.app)
+<a href="https://yazhini-dev.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazhini-ganesan-194793345)
+<a href="https://linkedin.com/in/yazhini-ganesan-194793345">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yazhini-Commits)
+<a href="https://github.com/Yazhini-Commits">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazhiniganesan2006@gmail.com)
+<a href="mailto:yazhiniganesan2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -185,26 +193,6 @@ Roadside Assistance and Cab Booking Platform
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yazhini-Commits&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazhini-Commits&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yazhini-Commits&theme=algolia&row=1&column=7"/>
 
 </div>
 
