@@ -114,15 +114,25 @@
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yazhini-commits">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yazhini-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazhini-Commits&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yazhini-commits">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazhini-commits&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yazhini-commits&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
