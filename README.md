@@ -1,89 +1,125 @@
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> About Me
+<div align="center">
+
+# YAZHINI GANESAN
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;Spring+Boot+Developer;IoT+%26+Machine+Learning+Enthusiast;SAP+Application+Developer;Hackathon+Participant;Building+Technology+for+Real+World+Impact" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yazhini-dev.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazhini-ganesan-194793345)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yazhini-Commits)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazhiniganesan2006@gmail.com)
+
+</div>
+
+---
+
+## About Me
 
 ```yaml
 Name: Yazhini Ganesan
-Education: B.Tech Computer Science & Engineering
-College: Sri Manakula Vinayagar Engineering College
-CGPA: 9.25 / 10.0
-Location: Puducherry, India
 
-Interests:
-  - Java Development
-  - Spring Boot
-  - Artificial Intelligence
-  - Machine Learning
-  - SAP Technologies
-  - IoT Systems
-  - Computer Vision
+Degree:
+  B.Tech Computer Science and Engineering
+
+College:
+  Sri Manakula Vinayagar Engineering College
+
+CGPA:
+  9.25 / 10
 
 Current Focus:
-  - Enterprise Applications
-  - AI Solutions
+  - Java Development
+  - Spring Boot
+  - Machine Learning
+  - IoT Systems
+  - SAP Solutions
   - Full Stack Development
-  - Open Source Contributions
+
+Passionate About:
+  - Building Real World Applications
+  - Solving Everyday Problems
+  - Software Engineering
+  - Emerging Technologies
 ```
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"/> Professional Summary
 
-B.Tech Computer Science undergraduate with hands-on experience in:
+---
 
-✔ Java Development
+## Tech Stack
 
-✔ Spring Boot Application Development
+### Languages
 
-✔ Machine Learning & AI Solutions
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript" />
+</p>
 
-✔ SAP Enterprise Applications
+### Frontend
 
-✔ IoT Systems Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
 
-✔ Computer Vision Projects
+### Backend
 
-✔ Database Design & REST APIs
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
-Successfully developed award-winning projects, enterprise solutions, and AI-powered applications while maintaining strong academic performance.
-## <img src="https://cdn-icons-png.flaticon.com/512/2784/2784445.png" width="25"/> Internship Experience
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## Professional Experience
 
 ### SAP Development Intern | God Particles
 
 - Developed Invoice Generator using SAP SD Billing Module
 - Automated invoice generation workflows
 - Contributed to Tambaram Budget Project
-- Worked on enterprise business applications
-
-**Tech Stack**
-
-`SAP SD` `Java` `SQL`
+- Worked on web application feature implementation
 
 ---
 
-### AI & Machine Learning Intern | Zaalima Pvt Ltd
+### Machine Learning Intern | Zaalima Pvt Ltd
 
-- Developed IoT Predictive Maintenance System
-- Built Machine Learning pipelines
-- Worked on Computer Vision defect detection
-- Developed Visual Quality Control solutions
-
-**Tech Stack**
-
-`Python` `Machine Learning` `Computer Vision`
+- Built predictive maintenance system using IoT data
+- Developed machine learning workflows
+- Worked on visual quality control system
+- Contributed to computer vision defect detection
 
 ---
 
-### AI + Sustainability Virtual Intern | IBM SkillsBuild
-
-- Worked on AI-powered sustainability solutions
-- Applied AI concepts to real-world problems
-- Explored IBM Cloud and AI technologies
-  ## <img src="https://cdn-icons-png.flaticon.com/512/1087/1087927.png" width="25"/> Featured Projects
+## Featured Projects
 
 ### Smart Train Ticket Verification System
 
-<img src="https://img.shields.io/badge/Award-1st%20Prize-success?style=flat-square"/>
+🏆 Award Winning Project
 
+- Automated ticket verification
 - NFC Authentication
-- Camera-Based Ticket Verification
+- Camera-Based Validation
 - Firebase Integration
-- Smart Ticket Validation
+- IoT-Based Smart Monitoring
+
+**Impact**
 - Improved verification accuracy by 65%
 - Improved processing efficiency by 70%
 
@@ -93,111 +129,122 @@ Successfully developed award-winning projects, enterprise solutions, and AI-powe
 
 ---
 
-### VISION_SPEC_QC
+### MECH CABS
 
-Production-grade PCB Defect Detection System
+Roadside Assistance and Cab Booking Platform
 
-- Computer Vision
-- Transfer Learning
-- Explainable AI
-- Industrial Quality Inspection
-
-**Tech Stack**
-
-`Python` `OpenCV` `Deep Learning`
-
----
-
-### FactoryGuard AI
-
-AI-IoT Predictive Maintenance Platform
-
-- Failure Prediction
-- Predictive Analytics
-- Industrial Monitoring
-- Time-Series Analysis
+- Real-time mechanic discovery
+- Emergency roadside support
+- Location based matching
+- Enhanced service accessibility
 
 **Tech Stack**
 
-`Python` `Machine Learning` `IoT`
+`Java`
+`Spring Boot`
+`MySQL`
+`REST API`
+`JWT`
+`Git`
 
 ---
 
 ### SAP Invoice Generator
 
-- SAP SD Billing Integration
-- Enterprise Invoice Automation
-- Workflow Management
-- Business Process Optimization
+- Automated billing workflow
+- SAP SD Module Integration
+- Invoice generation system
+- Enterprise workflow automation
 
 **Tech Stack**
 
-`SAP SD` `Java` `SQL`
+`SAP`
+`Java`
+`SQL`
 
 ---
 
-### MECHCABS
+## Achievements
 
-AI-Powered Roadside Assistance Platform
+🏆 1st Prize — Innovators Day (SMVEC)
 
-- Mechanic Discovery
-- Emergency Assistance
-- Location Based Matching
-- Real-Time Service Access
+🥈 2nd Prize — Paper Presentation (KEC)
 
-**Tech Stack**
+🏅 Participated in 3 National Level Hackathons
 
-`Java` `Spring Boot` `REST API`
-## <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="25"/> Achievements
+📜 NPTEL Elite Certificate — Joy of Computing using Python
 
-<table>
-<tr>
-<td>🥇 Innovators Day Project Competition</td>
-<td>1st Prize</td>
-</tr>
+🎓 AI & AI Tools Workshop — IIT Madras Research Park
 
-<tr>
-<td>🥈 Paper Presentation - KEC</td>
-<td>2nd Prize</td>
-</tr>
+---
 
-<tr>
-<td>🏅 National Level Hackathons</td>
-<td>3 Participations</td>
-</tr>
-
-<tr>
-<td>🎓 NPTEL Joy of Computing</td>
-<td>Elite Certificate</td>
-</tr>
-
-<tr>
-<td>🤖 IIT Madras Research Park</td>
-<td>AI & AI Tools Workshop</td>
-</tr>
-
-<tr>
-<td>⭐ Academic Excellence</td>
-<td>9.25 CGPA</td>
-</tr>
-
-</table>
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721268.png" width="25"/> GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yazhini-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=yazhini-commits&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yazhini-Commits&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="25"/> Most Used Languages
+## Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazhini-commits&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazhini-Commits&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yazhini-Commits&theme=algolia&row=1&column=7"/>
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## Current Goals
+
+- Master Spring Boot Development
+- Build Scalable Full Stack Applications
+- Explore Artificial Intelligence
+- Contribute to Open Source
+- Develop Social Impact Projects
+- Advance SAP Technologies
+
+---
+
+## Quote
+
+> Technology becomes meaningful when it solves real-world problems.
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Yazhini-Commits&style=for-the-badge&color=blue"/>
+
+</div>
+
+<div align="center">
+
+### Thanks for Visiting My Profile
 
 </div>
