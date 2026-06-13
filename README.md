@@ -2,7 +2,7 @@
 
 # YAZHINI GANESAN
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;Spring+Boot+Developer;IoT+%26+Machine+Learning+Enthusiast;SAP+Application+Developer;Hackathon+Participant;Building+Technology+for+Real+World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;IoT+%26+Machine+Learning+Enthusiast;Hackathon+Participant;Building+Technology+for+Real+World+Impact" alt="Typing SVG" />
 
 </div>
 
@@ -97,7 +97,7 @@ Passionate About:
 
 ## Professional Experience
 
-### SAP Development Intern | God Particles
+### Web Development Intern | God Particles
 
 - Developed Invoice Generator using SAP SD Billing Module
 - Automated invoice generation workflows
