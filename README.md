@@ -1,238 +1,249 @@
 <div align="center">
 
-# YAZHINI GANESAN
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yazhini%20Ganesan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Java%20Full%20Stack%20%7C%20IoT%20%7C%20ML%20%&descSize=16&descAlignY=60&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Java+Developer;IoT+%26+Machine+Learning+Enthusiast;Hackathon+Participant;Building+Technology+for+Real+World+Impact" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%24+building+real-world+applications...;%24+solving+everyday+problems+with+tech...;%24+Java+%7C+Spring+Boot+%7C+IoT+%7C+ML...;%24+turning+ideas+into+impact..." alt="Typing SVG" />
 
 </div>
 
 ---
 
+<!-- SOCIAL LINKS -->
 <div align="center">
 
-<a href="https://yazhini-dev.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/yazhini-ganesan-194793345">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Yazhini-Commits">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:yazhiniganesan2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0A0E1A?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A0E1A)](https://yazhini-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0A0E1A)](https://linkedin.com/in/yazhini-ganesan-194793345)
+[![GitHub](https://img.shields.io/badge/◈_GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0A0E1A)](https://github.com/Yazhini-Commits)
+[![Gmail](https://img.shields.io/badge/◈_Gmail-0A0E1A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A0E1A)](mailto:yazhiniganesan2006@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+<!-- ABOUT SECTION -->
+## `[ PROFILE.init ]`
 
 ```yaml
-Name: Yazhini Ganesan
+# ───────────────────────────────────────────────────
+#  YAZHINI GANESAN  ·  CSE Student  ·  SMVEC, Puducherry
+# ───────────────────────────────────────────────────
 
-Degree:
-  B.Tech Computer Science and Engineering
+name        : Yazhini Ganesan
+degree      : B.Tech Computer Science and Engineering
+college     : Sri Manakula Vinayagar Engineering College
+cgpa        : 9.25 / 10.0
 
-College:
-  Sri Manakula Vinayagar Engineering College
-
-CGPA:
-  9.25 / 10
-
-Current Focus:
-  - Java Development
-  - Spring Boot
-  - Machine Learning
-  - IoT Systems
-  - SAP Solutions
+active_on   :
+  - Java Development & Spring Boot
+  - Machine Learning & IoT Systems
   - Full Stack Development
 
-Passionate About:
+passionate_about:
   - Building Real World Applications
   - Solving Everyday Problems
-  - Software Engineering
   - Emerging Technologies
+  - Social Impact Through Software
+
+status      : "Technology becomes meaningful when it
+               solves real-world problems."
+# ───────────────────────────────────────────────────
 ```
 
 ---
 
-## Tech Stack
+<!-- TECH STACK -->
+## `[ STACK.load ]`
 
-### Languages
+**Languages**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Frontend
+**Frontend**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Backend
+**Backend & Database**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Database
+**Tools & Platforms**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-</p>
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## Professional Experience
-
-### Web Development Intern | God Particles
-
-- Developed Invoice Generator using SAP SD Billing Module
-- Automated invoice generation workflows
-- Contributed to Tambaram Budget Project
-- Worked on web application feature implementation
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-### Machine Learning Intern | Zaalima Pvt Ltd
+<!-- EXPERIENCE -->
+## `[ EXPERIENCE.log ]`
 
-- Built predictive maintenance system using IoT data
-- Developed machine learning workflows
-- Worked on visual quality control system
-- Contributed to computer vision defect detection
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Web Development Intern
+**God Particles** · Chennai
+
+```
+▸ Developed Invoice Generator using
+  SAP SD Billing Module
+▸ Automated invoice generation workflows
+▸ Contributed to Tambaram Budget Project
+▸ Implemented web application features
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning Intern
+**Zaalima Pvt Ltd** · Remote
+
+```
+▸ Built predictive maintenance system
+  using IoT sensor data
+▸ Developed machine learning workflows
+▸ Worked on visual quality control
+▸ Contributed to computer vision
+  defect detection pipeline
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+<!-- PROJECTS -->
+## `[ PROJECTS.deploy ]`
 
-### Smart Train Ticket Verification System
+### 🏆 Smart Train Ticket Verification System
+> *Award-Winning IoT Project*
 
-🏆 Award Winning Project
+<table>
+<tr><td>
 
-- Automated ticket verification
-- NFC Authentication
-- Camera-Based Validation
-- Firebase Integration
-- IoT-Based Smart Monitoring
+**What it does**
+
+An automated ticket verification system using NFC authentication, camera-based validation, and Firebase integration — building smarter rail infrastructure with IoT.
 
 **Impact**
-- Improved verification accuracy by 65%
-- Improved processing efficiency by 70%
+
+| Metric | Improvement |
+|--------|-------------|
+| Verification Accuracy | ↑ 65% |
+| Processing Efficiency | ↑ 70% |
 
 **Tech Stack**
 
-`Arduino UNO` `ESP32 CAM` `Firebase` `NFC`
+`Arduino UNO` · `ESP32 CAM` · `Firebase` · `NFC`
+
+</td></tr>
+</table>
 
 ---
 
-### MECH CABS
+### 🚗 MECH CABS — Roadside Assistance & Cab Booking Platform
 
-Roadside Assistance and Cab Booking Platform
+<table>
+<tr><td>
 
-- Real-time mechanic discovery
-- Emergency roadside support
-- Location based matching
-- Enhanced service accessibility
+Real-time mechanic discovery and emergency roadside support platform with location-based matching and enhanced service accessibility.
 
 **Tech Stack**
 
-`Java`
-`Spring Boot`
-`MySQL`
-`REST API`
-`JWT`
-`Git`
+`Java` · `Spring Boot` · `MySQL` · `REST API` · `JWT` · `Git`
+
+</td></tr>
+</table>
 
 ---
 
-### SAP Invoice Generator
+### 🧾 SAP Invoice Generator
 
-- Automated billing workflow
-- SAP SD Module Integration
-- Invoice generation system
-- Enterprise workflow automation
+<table>
+<tr><td>
+
+Automated billing workflow with SAP SD Module Integration for enterprise invoice generation and workflow automation.
 
 **Tech Stack**
 
-`SAP`
-`Java`
-`SQL`
+`SAP` · `Java` · `SQL`
+
+</td></tr>
+</table>
 
 ---
 
-## Achievements
+<!-- ACHIEVEMENTS -->
+## `[ ACHIEVEMENTS.record ]`
 
-🏆 1st Prize — Innovators Day (SMVEC)
-
-🥈 2nd Prize — Paper Presentation (KEC)
-
-🏅 Participated in 3 National Level Hackathons
-
-📜 NPTEL Elite Certificate — Joy of Computing using Python
-
-🎓 AI & AI Tools Workshop — IIT Madras Research Park
+| # | Achievement |
+|---|-------------|
+| 🥇 | **1st Prize** — Innovators Day, SMVEC |
+| 🥈 | **2nd Prize** — Paper Presentation, KEC |
+| 🏅 | Participated in **3 National Level Hackathons** |
+| 📜 | **NPTEL Elite Certificate** — Joy of Computing using Python |
+| 🎓 | **AI & AI Tools Workshop** — IIT Madras Research Park |
 
 ---
 
-## GitHub Analytics
+<!-- GITHUB STATS -->
+## `[ ANALYTICS.fetch ]`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0E1A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&ring_color=7C3AED"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yazhini-Commits&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=tokyo-night"/>
-
-</div>
-
----
-
-## Current Goals
-
-- Master Spring Boot Development
-- Build Scalable Full Stack Applications
-- Explore Artificial Intelligence
-- Contribute to Open Source
-- Develop Social Impact Projects
-- Advance SAP Technologies
-
----
-
-## Quote
-
-> Technology becomes meaningful when it solves real-world problems.
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Yazhini-Commits&style=for-the-badge&color=blue"/>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Yazhini-Commits&theme=midnight-purple&hide_border=true&background=0A0E1A&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
 <div align="center">
 
-### Thanks for Visiting My Profile
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=react-dark&bg_color=0A0E1A&color=22D3EE&line=7C3AED&point=F59E0B&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- CURRENT GOALS -->
+## `[ GOALS.queue ]`
+
+```
+  [▓▓▓▓▓░░░░░]  Master Spring Boot Development
+  [▓▓▓▓▓▓░░░░]  Build Scalable Full Stack Applications
+  [▓▓▓░░░░░░░]  Explore Artificial Intelligence
+  [▓▓░░░░░░░░]  Contribute to Open Source
+  [▓▓▓▓░░░░░░]  Develop Social Impact Projects
+  [▓▓▓▓▓░░░░░]  Advance SAP Technologies
+```
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yazhini-Commits&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+
+*`// Thanks for visiting — let's build something meaningful together`*
 
 </div>
