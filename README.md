@@ -205,21 +205,16 @@ Automated billing workflow with SAP SD Module Integration for enterprise invoice
 ---
 
 <!-- GITHUB STATS -->
-## `[ ANALYTICS.fetch ]`
+## 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaviya2005912&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviya2005912&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0E1A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&ring_color=7C3AED"/>
-
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Yazhini-Commits&theme=midnight-purple&hide_border=true&background=0A0E1A&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=react-dark&bg_color=0A0E1A&color=22D3EE&line=7C3AED&point=F59E0B&hide_border=true" width="95%"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Kaviya2005912&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
