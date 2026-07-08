@@ -206,28 +206,25 @@ Automated billing workflow with SAP SD Module Integration for enterprise invoice
 
 <!-- GITHUB STATS -->
 
-
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazhini-Commits&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yazhini-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazhini-commits&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yazhini-Commits&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=yazhini-commits&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yazhini-Commits&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yazhini-commits&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazhini-commits&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
-
 
 
 <!-- CURRENT GOALS -->
