@@ -206,15 +206,13 @@ Automated billing workflow with SAP SD Module Integration for enterprise invoice
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Overview
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yazhini-Commits&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Yazhini-Commits&theme=tokyonight&hide_border=true"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Yazhini-Commits&theme=tokyonight" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=tokyo-night&hide_border=true&area=true&t=1"/>
 </p>
