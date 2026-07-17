@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yazhini%20Ganesan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Java%20Full%20Stack%20%7C%20IoT%20%7C%20ML%20%&descSize=16&descAlignY=60&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yazhini%20Ganesan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Java%20Full%20Stack%20%7C%20IoT%20%7C%20ML&descSize=16&descAlignY=60&descColor=94a3b8" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%24+building+real-world+applications...;%24+solving+everyday+problems+with+tech...;%24+Java+%7C+Spring+Boot+%7C+IoT+%7C+ML...;%24+turning+ideas+into+impact..." alt="Typing SVG" />
@@ -208,7 +208,7 @@ Automated billing workflow with SAP SD Module Integration for enterprise invoice
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazhini-commits&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazhini-commits&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
