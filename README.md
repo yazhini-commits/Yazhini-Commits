@@ -212,7 +212,7 @@ Automated billing workflow with SAP SD Module Integration for enterprise invoice
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-commits&theme=tokyo-night&hide_border=true&area=true"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazhini-Commits&theme=tokyo-night&hide_border=true&area=true&t=1"/>
 </p>
 
 ---
